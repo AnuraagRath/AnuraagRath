@@ -8,7 +8,7 @@ I keep uploading new stuff here and on my Instagram page
 
 Follow me on Instagram - [quentin_quaraantino](https://www.instagram.com/quentin_quaraantino)
 
-![instagram](insta.png)
+![instagram](inst.png)
 
 
 
