@@ -2,11 +2,11 @@
 
 Im Anuraag Rath. I love working with Tech and building cool stuff.
 
-🔭 I’m currently working on ***Machine Learning***
+🔭 I’m currently learning ***Machine Learning***
 
 I keep uploading new stuff here and on my Instagram page
 
-Follow me on Instagram - [quentin_quaraantino](https://www.instagram.com/quentin_quaraantino)
+Follow me on Instagram 📫 💬  - [quentin_quaraantino](https://www.instagram.com/quentin_quaraantino)
 
 ![instagram](inst.png)
 
