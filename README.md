@@ -1,4 +1,4 @@
-### Hi there 👋
+### print('Hello World 👋')
 
 Im Anuraag Rath. I love working with Tech and building cool stuff.
 
@@ -12,7 +12,7 @@ Follow me on Instagram 📫 💬  - [@quentin_quaraantino](https://www.instagram
 
 ![instagram](inst.png)
 
-Start by checking out my Pinned Repositories 😄
+Start by checking out my Pinned Repositories 😄 
 
 <!--
 **AnuraagRath/AnuraagRath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
