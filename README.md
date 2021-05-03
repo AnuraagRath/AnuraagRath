@@ -16,7 +16,7 @@ Top Languages used by me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagRath&layout=compact&theme=synthwave)](https://github.com/AnuraagRath/github-readme-stats)
 
-  Send your valuable feedback about my Repositories
+  [Send your valuable feedback about my Repositories](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
 
 ![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagRath&show_icons=true&theme=synthwave)
 
