@@ -8,7 +8,7 @@ Im Anuraag Rath. I love working with Tech and building cool stuff.
 
 I keep uploading new stuff here and on my Instagram page
 
-Follow me on Instagram 📫 💬  - [@quentin_quaraantino](https://www.instagram.com/quentin_quaraantino)
+Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com/psycho_analystt)
 
 ![instagram](inst.png)
 
