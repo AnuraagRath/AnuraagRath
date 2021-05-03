@@ -27,6 +27,8 @@ Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com
 
 ![instagram](inst.png)
 
+## Check out my Resume
+
 [<img src = "https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif" width="200 px">](https://rathanuraag.000webhostapp.com/AnuraagRathResume.pdf)
 
 
