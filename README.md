@@ -27,7 +27,7 @@ Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com
 
 ![instagram](inst.png)
 
-[<img src = "https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif" width="200 px>](https://rathanuraag.000webhostapp.com/AnuraagRathResume.pdf)
+[<img src = "https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif" width="200 px">](https://rathanuraag.000webhostapp.com/AnuraagRathResume.pdf)
 
 
 <img src = "https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
@@ -36,7 +36,7 @@ Start by checking out my Pinned Repositories 😄
 
 <!--
 **AnuraagRath/AnuraagRath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+"
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
