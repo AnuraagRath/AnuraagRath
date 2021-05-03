@@ -6,7 +6,7 @@ Im Anuraag Rath. I love working with Tech and building cool stuff.
 
 Top Languages used by me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagRath&layout=Gradient)](https://github.com/AnuraagRath/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagRath&layout=Gradient&theme=gruvbox)](https://github.com/AnuraagRath/github-readme-stats)
 
   Send your valuable feedback about my Repositories
 
