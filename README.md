@@ -23,7 +23,7 @@ Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com
 
 Start by checking out my Pinned Repositories 😄 
 
-<img src= "http://gph.is/1HGEo1e">
+<img src = "https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 
 <!--
 **AnuraagRath/AnuraagRath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
