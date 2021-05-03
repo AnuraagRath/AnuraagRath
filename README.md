@@ -4,8 +4,10 @@ Im Anuraag Rath. I love working with Tech and building cool stuff.
 
 🔭 I’m currently learning ***Machine Learning***
 
+Top Languages used by me:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagRath)](https://github.com/AnuraagRath/github-readme-stats)
+
   Send your valuable feedback about my Repositories
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagRath)](https://github.com/AnuraagRath/github-readme-stats)
 
 ![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagRath&show_icons=true)
 
