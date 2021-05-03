@@ -11,7 +11,8 @@ Top Languages used by me:
   Send your valuable feedback about my Repositories
 
 ![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagRath&show_icons=true&theme=synthwave)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<Python 3>-<*****>-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
 
 I keep uploading new stuff here and on my Instagram page
 
