@@ -1,4 +1,4 @@
-### print('Hello World 👋')
+### print('Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">')
 
 Im Anuraag Rath. I love working with Tech and building cool stuff.
 
