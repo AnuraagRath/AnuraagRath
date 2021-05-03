@@ -6,6 +6,8 @@ Im Anuraag Rath. I love working with Tech and building cool stuff.
 
   Send your valuable feedback about my Repositories
 
+![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagRath&show_icons=true)
+
 I keep uploading new stuff here and on my Instagram page
 
 Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com/psycho_analystt)
