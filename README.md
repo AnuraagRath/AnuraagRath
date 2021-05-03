@@ -5,7 +5,7 @@ Im Anuraag Rath. I love working with Tech and building cool stuff.
 <img src= "https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230px">
 
 
-🔭 I’m currently learning <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif">
+🔭 I’m currently learning <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="230px">
 
 
 Top Languages used by me:
