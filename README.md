@@ -32,10 +32,12 @@ Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com
 [<img src = "https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif" width="200 px">](https://rathanuraag.000webhostapp.com/AnuraagRathResume.pdf)
 
 # MBA Thesis:
-## AN IMPLEMENTATION OF MACHINE LEARNING ON CUSTOMERS
-PURCHASE DATASET OF HOTEL GRAND CENTRAL
+## Title: 
+AN IMPLEMENTATION OF MACHINE LEARNING 
+ON CUSTOMERS' PURCHASE DATASET 
+OF HOTEL GRAND CENTRAL
 
-[<img src = "https://gph.is/2Qv8rC1" width="200 px">](https://rathanuraag.000webhostapp.com/Anuraag%20Rath%20MBA%20Dissertation.pdf)
+[<img src = "https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="200 px">](https://rathanuraag.000webhostapp.com/Anuraag%20Rath%20MBA%20Dissertation.pdf)
 
 
 <img src = "https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
