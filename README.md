@@ -31,8 +31,7 @@ Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com
 
 [<img src = "https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif" width="200 px">](https://rathanuraag.000webhostapp.com/AnuraagRathResume.pdf)
 
-# MBA Thesis:
-## Title: 
+## MBA Thesis:
 AN IMPLEMENTATION OF MACHINE LEARNING 
 ON CUSTOMERS' PURCHASE DATASET 
 OF HOTEL GRAND CENTRAL
