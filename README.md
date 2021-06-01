@@ -1,6 +1,6 @@
 ### print('Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">')
 
-Im Anuraag Rath. I love working with Tech and building cool stuff.
+I'm Anuraag Rath. I love working with Tech and building cool stuff.
 
 <img src= "https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230px">
 
