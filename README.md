@@ -38,9 +38,12 @@ OF HOTEL GRAND CENTRAL
 
 [<img src = "https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="200 px">](https://rathanuraag.000webhostapp.com/Anuraag%20Rath%20MBA%20Dissertation.pdf)
 
+## My Website:
+[<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif">](https://bit.ly/3hkUter)
+
 # Enjoyyy
 
-<img src = "https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
+<img src = "https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="200 px">
 Start by checking out my Pinned Repositories 😄 
 
 
