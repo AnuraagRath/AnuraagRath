@@ -23,7 +23,7 @@ Top Languages used by me:
 
 I keep uploading new stuff here and on my Instagram page
 
-Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com/psycho_analystt)
+Follow me on Instagram 📫 💬  - [@psycho_analystt](https://www.instagram.com/thenaivebaye)
 
 ![instagram](insta.png)
 
