@@ -33,7 +33,7 @@ Follow me on Instagram 📫 💬  - [@thenaivebaye](https://www.instagram.com/th
 
 ## LinkedIn Profile
 
-[<img src = "https://media.giphy.com/media/1AdZbGktpdj3M81HtK/giphy.gif" width="500 px">](https://www.linkedin.com/in/anuraagrath)
+[<img src = "https://media.giphy.com/media/1AdZbGktpdj3M81HtK/giphy.gif" width="500 px">](https://www.linkedin.com/in/AnuraagRath)
 
 ## MBA Thesis:
 AN IMPLEMENTATION OF MACHINE LEARNING 
