@@ -31,6 +31,10 @@ Follow me on Instagram 📫 💬  - [@thenaivebaye](https://www.instagram.com/th
 
 [<img src = "https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif" width="500 px">](https://rathanuraag.000webhostapp.com/AnuraagRathResume.pdf)
 
+## LinkedIn Profile
+
+[<img src = "https://media.giphy.com/media/1AdZbGktpdj3M81HtK/giphy.gif" width="500 px">](https://www.linkedin.com/in/anuraagrath)
+
 ## MBA Thesis:
 AN IMPLEMENTATION OF MACHINE LEARNING 
 ON CUSTOMERS' PURCHASE DATASET 
