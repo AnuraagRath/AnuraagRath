@@ -18,7 +18,6 @@ Top Languages used by me:
 
   [Send your valuable feedback about my Repositories 💬](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
 
-![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagRath&show_icons=true&theme=synthwave)
 
 
 I keep uploading new stuff here and on my Instagram page
