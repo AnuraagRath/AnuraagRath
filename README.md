@@ -22,7 +22,7 @@ Top Languages used by me:
 
 I keep uploading new stuff here and on my Instagram page
 
-Follow me on Instagram 📫 💬  - [@thenaivebaye](https://www.instagram.com/thenaivebaye)
+Follow me on Instagram 📫 💬  - [@chaoticeconomist](https://www.instagram.com/chaoticeconomist)
 
 ![instagram](insta.png)
 
