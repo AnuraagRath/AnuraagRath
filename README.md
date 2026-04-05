@@ -22,7 +22,7 @@ I keep uploading new stuff here and on my Instagram page
 
 Follow me on Instagram 📫 💬  - [@chaoticeconomist](https://www.instagram.com/chaoticeconomist)
 
-![instagram](insta.png)
+![instagram](IMG_1811.jpeg)
 
 ## LinkedIn Profile
 
