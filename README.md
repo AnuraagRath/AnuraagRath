@@ -12,9 +12,7 @@ I'm Anuraag Rath. I love working with Tech and building cool stuff.
 
 
 
-Top Languages used by me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagRath&layout=compact&theme=synthwave)](https://github.com/AnuraagRath/github-readme-stats)
 
   [Send your valuable feedback about my Repositories 💬](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
 
@@ -25,10 +23,6 @@ I keep uploading new stuff here and on my Instagram page
 Follow me on Instagram 📫 💬  - [@chaoticeconomist](https://www.instagram.com/chaoticeconomist)
 
 ![instagram](insta.png)
-
-## Check out my Resume
-
-[<img src = "https://media.giphy.com/media/emHFjFhg9Ha0wQjihU/giphy.gif" width="500 px">](https://rathanuraag.000webhostapp.com/AnuraagRathResume.pdf)
 
 ## LinkedIn Profile
 
@@ -41,8 +35,8 @@ OF HOTEL GRAND CENTRAL
 
 [<img src = "https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="500 px">](https://www.scribd.com/document/661264404/Anuraag-Rath-MBA-Dissertation)
 
-## My Website:
-[<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400 px">](https://cutt.ly/QHdQ8XR)
+## My Published paper:
+[<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400 px">](https://www.researchgate.net/publication/394253818_Modeling_Indirect_Reciprocity_in_the_Workplace_A_Dynamical_Systems_Analysis_of_Critical_Transitions)
 
 # Enjoyyy
 
