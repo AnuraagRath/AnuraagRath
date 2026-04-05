@@ -39,7 +39,7 @@ AN IMPLEMENTATION OF MACHINE LEARNING
 ON CUSTOMERS' PURCHASE DATASET 
 OF HOTEL GRAND CENTRAL
 
-[<img src = "https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="500 px">](https://rathanuraag.000webhostapp.com/Anuraag%20Rath%20MBA%20Dissertation.pdf)
+[<img src = "https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="500 px">](https://www.scribd.com/document/661264404/Anuraag-Rath-MBA-Dissertation)
 
 ## My Website:
 [<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400 px">](https://cutt.ly/QHdQ8XR)
