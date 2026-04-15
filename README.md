@@ -11,18 +11,10 @@ I'm Anuraag Rath. I love working with Tech and building cool stuff.
 
 
 
-
-
-
-  [Send your valuable feedback about my Repositories 💬](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
-
-
-
-I keep uploading new stuff here and on my Instagram page
+![instagram](IMG_1811.jpeg)
 
 Follow me on Instagram 📫 💬  - [@chaoticeconomist](https://www.instagram.com/chaoticeconomist)
 
-![instagram](IMG_1811.jpeg)
 
 ## LinkedIn Profile
 
