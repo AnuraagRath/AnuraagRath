@@ -28,15 +28,9 @@ Follow me on Instagram 📫 💬  - [@chaoticeconomist](https://www.instagram.co
 
 [<img src = "https://media.giphy.com/media/1AdZbGktpdj3M81HtK/giphy.gif" width="500 px">](https://www.linkedin.com/in/AnuraagRath)
 
-## MBA Thesis:
-AN IMPLEMENTATION OF MACHINE LEARNING 
-ON CUSTOMERS' PURCHASE DATASET 
-OF HOTEL GRAND CENTRAL
 
-[<img src = "https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="500 px">](https://www.scribd.com/document/661264404/Anuraag-Rath-MBA-Dissertation)
-
-## My Published paper:
-[<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400 px">](https://www.researchgate.net/publication/394253818_Modeling_Indirect_Reciprocity_in_the_Workplace_A_Dynamical_Systems_Analysis_of_Critical_Transitions)
+## My resaerch papers:
+[<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400 px">](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=VEl58mkAAAAJ)
 
 # Enjoyyy
 
