@@ -21,7 +21,7 @@ Follow me on Instagram 📫 💬  - [@chaoticeconomist](https://www.instagram.co
 [<img src = "https://media.giphy.com/media/1AdZbGktpdj3M81HtK/giphy.gif" width="500 px">](https://www.linkedin.com/in/AnuraagRath)
 
 
-## My resaerch papers:
+## My research papers:
 [<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400 px">](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=VEl58mkAAAAJ)
 
 # Enjoyyy
