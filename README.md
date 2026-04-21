@@ -9,11 +9,6 @@ I'm Anuraag Rath. I love working with Tech and building cool stuff.
 
 <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="230px"> <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="230px"> <img src="https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif" width="220px"> 
 
-## Follow me on Instagram 📫 💬  - [@chaoticeconomist](https://www.instagram.com/chaoticeconomist)
-
-![instagram](IMG_1811.jpeg)
-
-
 ## LinkedIn Profile
 
 [<img src = "https://media.giphy.com/media/1AdZbGktpdj3M81HtK/giphy.gif" width="500 px">](https://www.linkedin.com/in/AnuraagRath)
@@ -21,7 +16,6 @@ I'm Anuraag Rath. I love working with Tech and building cool stuff.
 ## HuggingFace
 
 [<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYCNdeCxypTOENSjKGLnGzIpRHXA_48XiMw&s" width="500 px">](https://huggingface.co/ChaoticEconomist)
-
 
 ## My research papers:
 [<img src = "https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400 px">](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=VEl58mkAAAAJ)
