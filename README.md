@@ -25,5 +25,3 @@ I'm Anuraag Rath. I love working with Tech and building cool stuff.
 [<img src = "https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">](https://youtu.be/dQw4w9WgXcQ)
 
 
-# Start by checking out my Pinned Repositories 😄 👇🏻
-
